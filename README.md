@@ -1,4 +1,4 @@
-# Java-Greenfoot-Game-Demonstrating-Design-Patterns-
+# Java-Greenfoot-Game-Demonstrating-Design-Patterns
 Simple Greenfoot game to demonstrate use of design pattern
 
 #### PROJECT TITLE: **Infinity Wars Game**
